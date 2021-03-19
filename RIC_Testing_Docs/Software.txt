@@ -1,0 +1,14 @@
+Software to Download:
+Autodesk Eagle
+https://www.autodesk.com/products/eagle/free-download
+
+Arduino
+https://www.arduino.cc/en/software
+
+ArduinoThreads Library
+https://github.com/ivanseidel/ArduinoThread
+
+
+
+
+
